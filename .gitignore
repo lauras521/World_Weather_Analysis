@@ -130,3 +130,10 @@ dmypy.json
 
 #add ds_store
 .ds_store
+
+#adding config.py
+config.py
+
+#adding additional files
+API_practice.ipynb
+random_numbers.ipynb
